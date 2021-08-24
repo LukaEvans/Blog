@@ -9,12 +9,14 @@
     <body> 
         <div id="app">Loading</div> 
         <script>
+            const doc = '//github.com/LukaPlus/Blog/tree/main/'
+            const path = '//github.com/LukaPlus/Blog/tree/web/'
             window.$docsify = {
-                name: '卢卡',
+                name: '卢卡的博客',
                 repo: 'docsifyjs/docsify',
                 basePath: '//github.com/LukaPlus/Blog/tree/main/',
-                homepage: 'home.md',
-            };
+                homepage: path + 'home.md',    
+            }
         </script> 
         <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>  
     </body>
