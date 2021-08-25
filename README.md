@@ -9,6 +9,8 @@
 - 兼容主流的浏览器（IE8+）和Zepto.js，且支持iPad等平板设备；
 - 支持自定义主题样式；
 
+[2.JVM入门](/JVM入门.md)
+
 # Editor.md
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
